@@ -13,9 +13,9 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | ------------- | ------------- | ------------- |
 | Participant demographics |	7	| 1 to 7 |
 | Perceptions toward physical safety |	8	| 8 to 15 |
-| Perceptions towards working with coworkers |	6	| 16 to 21 |
-| Perceptions towards working with robots	| 16 |	22 to 37 |
-| Perceptions towards data privacy on robots	| 3 |	38 to 40 |
+| Perceptions toward working with coworkers |	6	| 16 to 21 |
+| Perceptions toward working with robots	| 16 |	22 to 37 |
+| Perceptions toward data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
 
 For each category we provide the list of questions and response value choices below. Response value choices are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text box, in the Reponse Value Choices column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
@@ -36,9 +36,9 @@ The following demographic information was collected from each participant:
 | 6 | Job domain: | Construction; Contract Work; Manufacturing; Retail; Transportation/Delivery/Postal Services; Warehousing |
 | 7 | Working Location: | Rural; Suburban; Urban – large-size city; Urban – mid-size city |
 
-### Perceptions Towards Physical Safety Questions and Response Value Choices
+### Perceptions Toward Physical Safety Questions and Response Value Choices
 
-The following questions were asked to participants regarding their perceptions towards physical safety in the workplace:
+The following questions were asked to participants regarding their perceptions toward physical safety in the workplace:
 
 | Dataset Column | Question | Response Value Choices | 
 | ------------- | ------------- | ------------- |
@@ -51,9 +51,9 @@ The following questions were asked to participants regarding their perceptions t
 | 14 | Do you feel comfortable discussing barriers with your co-workers or your superiors? | Occasionally; Yes; No | 
 | 15 | How concerned are you that barriers may cause you to have reduced longevity in your job? | Not concerned; Somewhat concerned; Very concerned | 
 
-### Perceptions Towards Working with Coworkers Questions and Response Value Choices
+### Perceptions Toward Working with Coworkers Questions and Response Value Choices
 
-The following questions were asked to participants to garner perceptions towards coworkers when needing assistance in the workplace:
+The following questions were asked to participants to garner perceptions toward coworkers when needing assistance in the workplace:
 
 | Dataset Column | Question | Response Value Choices | 
 | ------------- | ------------- | ------------- |
@@ -64,9 +64,9 @@ The following questions were asked to participants to garner perceptions towards
 | 20 | If a co-worker assists you in your tasks, do you feel worried that your job is at stake? | Not applicable, I do not have a co-worker; Not at all; Somewhat; Absolutely |
 | 21 | If a co-worker assists you in your tasks, would you feel safe at task performance? | Co-worker does not care whether or not I have a lifting-related injury; Co-worker ensures I do not have lifting-related injuries, but I would be worried that co-worker would injure me; Co-worker ensures I do not have lifting-related injuries |
 
-### Perceptions Towards Working with Robots Questions and Response Value Choices
+### Perceptions Toward Working with Robots Questions and Response Value Choices
 
-The following questions were asked to participants to garner perceptions towards working alongside robots of varying capabilities in the workplace:
+The following questions were asked to participants to garner perceptions toward working alongside robots of varying capabilities in the workplace:
 
 | Dataset Column | Question | Response Value Choices | 
 | ------------- | ------------- | ------------- |
@@ -87,9 +87,9 @@ The following questions were asked to participants to garner perceptions towards
 | 36 | If a robot helped you with lifting only when you need its help, would you feel that | The robot respects my independence; The robot does not respect my independence |
 | 37 | If a robot helped you with lifting only when you need its help, would you feel that your job is at stake? | Not at all; Somewhat; Absolutely |
 
-### Perceptions Towards Data Privacy on Robots Questions and Response Value Choices
+### Perceptions Toward Data Privacy on Robots Questions and Response Value Choices
 
-The following questions were asked to participants to garner perceptions towards privacy when robots use different forms of sensing to determine need for assistance:
+The following questions were asked to participants to garner perceptions toward privacy when robots use different forms of sensing to determine need for assistance:
 
 | Dataset Column | Question | Response Value Choices | 
 | ------------- | ------------- | ------------- |
