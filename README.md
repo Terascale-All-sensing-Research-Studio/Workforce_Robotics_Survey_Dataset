@@ -50,8 +50,8 @@ The following questions were asked to participants to garner perceptions towards
 
 | Dataset Column | Question | Possible Response Values | 
 | ------------- | ------------- | ------------- |
-| 16 | Do you (or would you) feel comfortable receiving assistance from a co-worker during lifting operations? | |
-| 17 | When you require assistance from a co-worker in lifting, how do you (or would you) expect to receive it? | |
+| 16 | Do you (or would you) feel comfortable receiving assistance from a co-worker during lifting operations? | Not applicable, I do not have a co-worker; Not comfortable; Comfortable; Somewhat comfortable; Very comfortable |
+| 17 | When you require assistance from a co-worker in lifting, how do you (or would you) expect to receive it? | Not applicable, I do not have a co-worker; Not applicable, as I prefer to work on my own; I prefer to let my co-worker know that I need assistance; I prefer that my co-worker figure out that I need assistance; It depends on the package I am carrying and how I feel at the time |
 | 18 | When receiving assistance from a co-worker in lifting, what form of interaction do you (or would you) prefer (select all that apply) | |
 | 19 | When a co-worker assist you in your tasks, do you feel that they respect your independence at task performance? | |
 | 20 | If a co-worker assists you in your tasks, do you feel worried that your job is at stake? | |
