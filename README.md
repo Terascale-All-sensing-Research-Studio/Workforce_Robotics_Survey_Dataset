@@ -13,7 +13,7 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | Perceptions towards data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
 
-For each section we provide the list of questions and possible response values below. Possible response values are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text Box, in the Possible Values column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
+For each section we provide the list of questions and possible response values below. Possible response values are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text box, in the Possible Values column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
 
 ## Participant Demographics Questions and Possible Response Values
 
