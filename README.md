@@ -13,7 +13,7 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | Attitudes towards data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
 
-## Participant demographics
+## Participant Demographics
 
 The following demographic information was collected from each participant:
 
