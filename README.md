@@ -26,30 +26,30 @@ We summarize our dataset by providing counts and percentages of the following de
 
 | Demographic |	Count |	Percentage |
 | ------------- | ------------- | ------------- |
-| Country | | |	 	 
+| **Country** | | |	 	 
 | Australia	| 24	| 7.12% |
 | Canada |	130	| 38.58% | 
 | UK	| 101	| 29.97% | 
 | USA	| 82 |	24.33% |
-| Age	| | 	 
+| **Age**	| | 	 
 | 18 - 29 | 119 |	35.31% | 
 | 30 - 39	| 93 |	27.60% | 
 | 40 - 49	| 76 | 22.55% | 
 | 50 - 59	| 33 | 9.79% | 
 | 60 - 69	| 11 | 3.26% | 
 | 70 - 79	| 5 | 1.48% | 
-| Self-Identified Gender |  | 	
+| **Self-Identified Gender** |  | 	
 | Female	| 126	| 37.39% | 
 | Male	| 209 |	62.02% | 
 | Prefer not to say	| 2	| 0.59% | 
-| Job Domain |  | 
+| **Job Domain** |  | 
 | Construction	| 40	| 11.87% | 
 | Contract Work	| 24	| 7.12% | 
 | Manufacturing	| 57	| 16.91% | 
 | Retail	| 45	| 13.35% | 
 | Transportation / Delivery / Postal Services	| 48	| 14.24% | 
 | Warehousing	| 123	| 36.50% | 
-| Working Location | |  		
+| **Working Location** | |  		
 | Rural	| 47	| 13.95% | 
 | Suburban |	103 |	30.56% | 
 | Urban, large-size city |	65 |	19.29% |  
