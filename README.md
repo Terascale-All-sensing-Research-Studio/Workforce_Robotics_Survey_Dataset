@@ -6,10 +6,10 @@
 [Survey Questions and Possible Response Values](#survey-questions-and-possible-response-values)
 
 ## Summary of Dataset
-The dataset consists of a single Comma-Separated Values (CSV) file of the survey responses consisting of 338 rows, including a header row, and 40 columns. The data is provided in raw format, but filtered to excludes entries from participants who did not wish to have their responses publicly released. The 337 non-header rows in our dataset represents the complete responses provided by the participants. The 40 columns contain responses for the 40 questions broken into sections as follows: 
+The dataset consists of a single Comma-Separated Values (CSV) file of the survey responses consisting of 338 rows, including a header row, and 40 columns. The data is provided in raw format, but filtered to excludes entries from participants who did not wish to have their responses publicly released. The 337 non-header rows in our dataset represents the complete responses provided by the participants. The 40 columns contain responses for the 40 questions broken into categories as follows: 
 
 
-| Section |	Number of Questions	| Columns in Data |
+| Category |	Number of Questions	| Columns in Data |
 | ------------- | ------------- | ------------- |
 | Participant demographics |	7	| 1 to 7 |
 | Perceptions toward physical safety |	8	| 8 to 15 |
@@ -18,7 +18,7 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | Perceptions towards data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
 
-For each section we provide the list of questions and possible response values below. Possible response values are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text box, in the Possible Values column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
+For each category we provide the list of questions and possible response values below. Possible response values are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text box, in the Possible Values column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
 
 ## Survey Questions and Possible Response Values
 
