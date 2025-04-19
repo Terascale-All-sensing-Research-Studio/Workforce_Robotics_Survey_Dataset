@@ -45,3 +45,13 @@ The following questions were asked to participants regarding their perceptions a
 ## Attitude Towards Working with Coworkers
 
 The following questions were asked to participants to garner perceptions towards coworkers engaged in collaborative tasks in the workplace:
+
+| Dataset Column | Demographic | Possible Values | 
+| ------------- | ------------- | ------------- |
+| 16 | Do you (or would you) feel comfortable receiving assistance from a co-worker during lifting operations? | |
+| 17 | When you require assistance from a co-worker in lifting, how do you (or would you) expect to receive it? | |
+| 18 | When receiving assistance from a co-worker in lifting, what form of interaction do you (or would you) prefer (select all that apply) | |
+| 19 | When a co-worker assist you in your tasks, do you feel that they respect your independence at task performance? | |
+| 20 | If a co-worker assists you in your tasks, do you feel worried that your job is at stake? | |
+| 21 | If a co-worker assist you in your tasks, would you feel safe at task performance? | |
+
