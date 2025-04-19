@@ -53,9 +53,9 @@ The following questions were asked to participants to garner perceptions towards
 | 16 | Do you (or would you) feel comfortable receiving assistance from a co-worker during lifting operations? | Not applicable, I do not have a co-worker; Not comfortable; Comfortable; Somewhat comfortable; Very comfortable |
 | 17 | When you require assistance from a co-worker in lifting, how do you (or would you) expect to receive it? | Not applicable, I do not have a co-worker; Not applicable, as I prefer to work on my own; I prefer to let my co-worker know that I need assistance; I prefer that my co-worker figure out that I need assistance; It depends on the package I am carrying and how I feel at the time |
 | 18 | When receiving assistance from a co-worker in lifting, what form of interaction do you (or would you) prefer (select all that apply) | |
-| 19 | When a co-worker assist you in your tasks, do you feel that they respect your independence at task performance? | |
-| 20 | If a co-worker assists you in your tasks, do you feel worried that your job is at stake? | |
-| 21 | If a co-worker assist you in your tasks, would you feel safe at task performance? | |
+| 19 | When a co-worker assists you in your tasks, do you feel that they respect your independence at task performance? | Not applicable, I do not have a co-worker; Not applicable, as I prefer to work on my own; Not at all; Somewhat; Absolutely |
+| 20 | If a co-worker assists you in your tasks, do you feel worried that your job is at stake? | Not applicable, I do not have a co-worker; Not at all; Somewhat; Absolutely |
+| 21 | If a co-worker assists you in your tasks, would you feel safe at task performance? | Co-worker does not care whether or not I have a lifting-related injury; Co-worker ensures I do not have lifting-related injuries, but I would be worried that co-worker would injure me; Co-worker ensures I do not have lifting-related injuries |
 
 ## Perceptions Towards Working with Robots Questions and Possible Response Values
 
