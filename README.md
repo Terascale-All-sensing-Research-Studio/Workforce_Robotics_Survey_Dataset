@@ -13,13 +13,13 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | Perceptions towards data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
 
-For each section we provide the list of questions and possible response values below. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text Box, in the Possible Values column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
+For each section we provide the list of questions and possible response values below. Possible response values are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text Box, in the Possible Values column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
 
 ## Participant Demographics Questions and Possible Response Values
 
 The following demographic information was collected from each participant:
 
-| Dataset Column | Question | Possible Values | 
+| Dataset Column | Question | Possible Response Values | 
 | ------------- | ------------- | ------------- |
 | 1 | Country: | Australia; Canada; United Kingdom; United States of America
 | 2 | Age: | 18-29; 30-39; 40-49; 50-59; 60-69; 70-79; 80-89 
@@ -33,7 +33,7 @@ The following demographic information was collected from each participant:
 
 The following questions were asked to participants regarding their perceptions towards physical safety in the workplace:
 
-| Dataset Column | Question | Possible Values | 
+| Dataset Column | Question | Possible Response Values | 
 | ------------- | ------------- | ------------- |
 | 8 | In an average week how many hours do you spend lifting heavy objects? | | 
 | 9 | How many injuries have you had over the past 6 months related to your job? | | 
@@ -48,7 +48,7 @@ The following questions were asked to participants regarding their perceptions t
 
 The following questions were asked to participants to garner perceptions towards coworkers when needing assistance in the workplace:
 
-| Dataset Column | Question | Possible Values | 
+| Dataset Column | Question | Possible Response Values | 
 | ------------- | ------------- | ------------- |
 | 16 | Do you (or would you) feel comfortable receiving assistance from a co-worker during lifting operations? | |
 | 17 | When you require assistance from a co-worker in lifting, how do you (or would you) expect to receive it? | |
@@ -61,7 +61,7 @@ The following questions were asked to participants to garner perceptions towards
 
 The following questions were asked to participants to garner perceptions towards working alongside robots of varying capabilities in the workplace:
 
-| Dataset Column | Question | Possible Values | 
+| Dataset Column | Question | Possible Response Values | 
 | ------------- | ------------- | ------------- |
 | 22 | Have you worked along-side or with robot assistants before on the job? | |
 | 23 | If you have worked alongside robots in lifting operations, did the robot perform lifting by itself, or did you and the robot work together? | |
@@ -84,7 +84,7 @@ The following questions were asked to participants to garner perceptions towards
 
 The following questions were asked to participants to garner perceptions towards privacy when robots use different forms of sensing to determine need for assistance:
 
-| Dataset Column | Question | Possible Values | 
+| Dataset Column | Question | Possible Response Values | 
 | ------------- | ------------- | ------------- |
 | 38 | To detect whether you need help, the robot may have to record data about you, e.g., it may need to record your audio to hear your request, or it may need to record video to determine if you are struggling. If your audio data is recorded, how concerned are you about privacy issues? | Not concerned; Somewhat concerned; Very concerned |
 | 39 | If your video data is recorded, how concerned are you about privacy issues? | Not concerned; Somewhat concerned; Very concerned |
