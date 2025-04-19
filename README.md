@@ -27,3 +27,10 @@ The following demographic information was collected from each participant:
 | 6 | Job domain: | Construction, Contract Work, Manufacturing, Retail, Transportation/Delivery/Postal Services, Warehousing |
 | 7 | Working Location: | Rural, Suburban, Urban – large-size city, Urban – mid-size city |
 
+## Attitudes Towards Physical Safety
+
+The following questions were asked to participants regarding their perceptions and attitudes towards physical safety in the workplace:
+
+## Attitude Towards Working with Coworkers
+
+The following questions were asked to participants to garner perceptions towards coworkers engaged in collaborative tasks in the workplace:
