@@ -57,4 +57,29 @@ The following questions were asked to participants to garner perceptions towards
 
 ## Perceptions Towards Working with Robots
 
+| Dataset Column | Demographic | Possible Values | 
+| ------------- | ------------- | ------------- |
+| 22 | Have you worked along-side or with robot assistants before on the job? | |
+| 23 | If you have worked alongside robots in lifting operations, did the robot perform lifting by itself, or did you and the robot work together? | |
+| 24 | If you have worked alongside robots in lifting operations, did you feel safe working alongside the robot? | |
+| 25 | If you have worked alongside robots in lifting operations, did you feel that the robot respected your independence at task performance? | |
+| 26 | If you have worked alongside robots in lifting operations, did you feel worried that your job is at stake? | |
+| 27 | If a robot is available as a lifting assistant, what would you prefer? | |
+| 28 | If you want the robot's help, what would you prefer? | |
+| 29 | If a robot always lifted packages for you, would you feel that | |
+| 30 | If a robot always lifted packages for you, would you feel that | |
+| 31 | If a robot always lifted packages for you, would you feel that your job is at stake? | |
+| 32 | If a robot stood by the side, and never lifted packages for you, would you feel that | |
+| 33 | If a robot stood by the side and never lifted packages for you, would you feel that | |
+| 34 | If a robot stood by the side and never lifted packages for you, would you feel that your job is at stake? | |
+| 35 | If a robot helped you with lifting only when you need its help, would you feel that | |
+| 36 | If a robot helped you with lifting only when you need its help, would you feel that | |
+| 37 | If a robot helped you with lifting only when you need its help, would you feel that your job is at stake? | |
+
 ## Perceptions Towards Data Privacy on Robots
+
+| Dataset Column | Demographic | Possible Values | 
+| ------------- | ------------- | ------------- |
+| 38 | To detect whether you need help, the robot may have to record data about you, e.g., it may need to record your audio to hear your request, or it may need to record video to determine if you are struggling. If your audio data is recorded, how concerned are you about privacy issues? | |
+| 39 | If your video data is recorded, how concerned are you about privacy issues? | |
+| 40 | We now have computer software that can detect the movement of your body joints from video data. If the robot uses a camera to record your video, detect and store the movement of your body joints, and delete the video, how concerned would you be about privacy issues? | |
