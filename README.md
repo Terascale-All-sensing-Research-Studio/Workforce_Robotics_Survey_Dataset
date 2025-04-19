@@ -35,14 +35,14 @@ The following questions were asked to participants regarding their perceptions t
 
 | Dataset Column | Question | Possible Response Values | 
 | ------------- | ------------- | ------------- |
-| 8 | In an average week how many hours do you spend lifting heavy objects? | | 
-| 9 | How many injuries have you had over the past 6 months related to your job? | | 
+| 8 | In an average week how many hours do you spend lifting heavy objects? | 0-5 hours; 6-20 hours; 21-40 hours; 40+ hours | 
+| 9 | How many injuries have you had over the past 6 months related to your job? | 0 to 2; 3 to 5; 6 to 10; 11 or more | 
 | 10 | What has been the nature of your injuries (select all that apply)? | | 
-| 11 | How often do you feel that you encounter barriers to safety in your occupation? | | 
-| 12 | How often do you feel that you encounter barriers to performing your task in your occupation? | | 
-| 13 | What is the nature of these barriers (select all that apply)? | | 
-| 14 | Do you feel comfortable discussing barriers with your co-workers or your superiors? | | 
-| 15 | How concerned are you that barriers may cause you to have reduced longevity in your job? | | 
+| 11 | How often do you feel that you encounter barriers to safety in your occupation? | Never; Rarely; Sometimes; Often; All the time | 
+| 12 | How often do you feel that you encounter barriers to performing your task in your occupation? | Never; Rarely; Sometimes; Often; All the time | 
+| 13 | What is the nature of these barriers (select all that apply)? | No barriers; Social, e.g., I do not feel that I belong to a team; Psychological, e.g., I feel stressed out by the nature of my work or by the lack of safety; Physical, e.g., I do not feel that I have enough physical help to be safe or to carry out my tasks | 
+| 14 | Do you feel comfortable discussing barriers with your co-workers or your superiors? | Occasionally; Yes; No | 
+| 15 | How concerned are you that barriers may cause you to have reduced longevity in your job? | Not concerned; Somewhat concerned; Very concerned | 
 
 ## Perceptions Towards Working with Coworkers Questions and Possible Response Values
 
