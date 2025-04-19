@@ -68,15 +68,15 @@ The following questions were asked to participants to garner perceptions towards
 | 26 | If you have worked alongside robots in lifting operations, did you feel worried that your job is at stake? | |
 | 27 | If a robot is available as a lifting assistant, what would you prefer? | |
 | 28 | If you want the robot's help, what would you prefer? | |
-| 29 | If a robot always lifted packages for you, would you feel that | |
-| 30 | If a robot always lifted packages for you, would you feel that | |
-| 31 | If a robot always lifted packages for you, would you feel that your job is at stake? | |
-| 32 | If a robot stood by the side, and never lifted packages for you, would you feel that | |
-| 33 | If a robot stood by the side and never lifted packages for you, would you feel that | |
-| 34 | If a robot stood by the side and never lifted packages for you, would you feel that your job is at stake? | |
-| 35 | If a robot helped you with lifting only when you need its help, would you feel that | |
-| 36 | If a robot helped you with lifting only when you need its help, would you feel that | |
-| 37 | If a robot helped you with lifting only when you need its help, would you feel that your job is at stake? | |
+| 29 | If a robot always lifted packages for you, would you feel that | The robot ensures I do not have lifting-related injuries, The robot does not care whether or not I have a lifting-related injury, The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
+| 30 | If a robot always lifted packages for you, would you feel that | The robot respects my independence, The robot does not respect my independence |
+| 31 | If a robot always lifted packages for you, would you feel that your job is at stake? | Not at all, Somewhat, Absolutely |
+| 32 | If a robot stood by the side, and never lifted packages for you, would you feel that | The robot ensures I do not have lifting-related injuries, The robot does not care whether or not I have a lifting-related injury, The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
+| 33 | If a robot stood by the side and never lifted packages for you, would you feel that | The robot respects my independence, The robot does not respect my independence |
+| 34 | If a robot stood by the side and never lifted packages for you, would you feel that your job is at stake? | Not at all, Somewhat, Absolutely |
+| 35 | If a robot helped you with lifting only when you need its help, would you feel that | The robot ensures I do not have lifting-related injuries, The robot does not care whether or not I have a lifting-related injury, The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
+| 36 | If a robot helped you with lifting only when you need its help, would you feel that | The robot respects my independence, The robot does not respect my independence |
+| 37 | If a robot helped you with lifting only when you need its help, would you feel that your job is at stake? | Not at all, Somewhat, Absolutely |
 
 ## Perceptions Towards Data Privacy on Robots
 
