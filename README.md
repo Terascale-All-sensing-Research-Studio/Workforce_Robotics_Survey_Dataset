@@ -1,4 +1,4 @@
-# Worker_Survey_Dataset For Brief paper
+# Dataset of Worker Perceptions of Workforce Robotics Regarding Safety, Independence, and Job Security
 
 ## Summary of Dataset
 The dataset consists of a single Comma-Separated Values (CSV) file of the survey responses consisting of 338 rows, including a header row, and 40 columns. The data is provided in raw format, but filtered to excludes entries from participants who did not wish to have their responses publicly released. The 337 non-header rows in our dataset represents the complete responses provided by the participants. The 40 columns contain responses for the 40 questions broken into sections as follows: 
