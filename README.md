@@ -84,6 +84,6 @@ The following questions were asked to participants to garner perceptions towards
 
 | Dataset Column | Demographic | Possible Values | 
 | ------------- | ------------- | ------------- |
-| 38 | To detect whether you need help, the robot may have to record data about you, e.g., it may need to record your audio to hear your request, or it may need to record video to determine if you are struggling. If your audio data is recorded, how concerned are you about privacy issues? | Not concerned, Somewhat Concerned, Very concerned |
-| 39 | If your video data is recorded, how concerned are you about privacy issues? | Not concerned, Somewhat Concerned, Very concerned |
-| 40 | We now have computer software that can detect the movement of your body joints from video data. If the robot uses a camera to record your video, detect and store the movement of your body joints, and delete the video, how concerned would you be about privacy issues? | Not concerned, Somewhat Concerned, Very concerned |
+| 38 | To detect whether you need help, the robot may have to record data about you, e.g., it may need to record your audio to hear your request, or it may need to record video to determine if you are struggling. If your audio data is recorded, how concerned are you about privacy issues? | Not concerned, Somewhat concerned, Very concerned |
+| 39 | If your video data is recorded, how concerned are you about privacy issues? | Not concerned, Somewhat concerned, Very concerned |
+| 40 | We now have computer software that can detect the movement of your body joints from video data. If the robot uses a camera to record your video, detect and store the movement of your body joints, and delete the video, how concerned would you be about privacy issues? | Not concerned, Somewhat concerned, Very concerned |
