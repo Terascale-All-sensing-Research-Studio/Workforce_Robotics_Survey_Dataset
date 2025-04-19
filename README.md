@@ -1,4 +1,4 @@
-# Dataset of Worker Perceptions of Workforce Robotics Regarding Safety, Independence, and Job Security
+# Dataset of Worker Perceptions of Workforce Robotics Regarding Safety, Independence, Job Security, and Privacy
 
 ## Contents
 [Description](#description)
