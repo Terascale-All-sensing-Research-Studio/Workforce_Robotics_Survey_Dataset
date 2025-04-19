@@ -23,7 +23,7 @@ The following demographic information was collected from each participant:
 | ------------- | ------------- | ------------- |
 | 1 | Country: | Australia; Canada; United Kingdom; United States of America
 | 2 | Age: | 18-29; 30-39; 40-49; 50-59; 60-69; 70-79; 80-89 
-| 3 | Self-identified gender: | Male; Female; Prefer Not To Say
+| 3 | Self-identified gender: | Male; Female; Prefer Not To Say; Other (Text box)
 | 4 | Height (feet' inches") | Text box |
 | 5 | Weight (pounds) | Text box |
 | 6 | Job domain: | Construction; Contract Work; Manufacturing; Retail; Transportation/Delivery/Postal Services; Warehousing |
@@ -37,7 +37,7 @@ The following questions were asked to participants regarding their perceptions t
 | ------------- | ------------- | ------------- |
 | 8 | In an average week how many hours do you spend lifting heavy objects? | 0-5 hours; 6-20 hours; 21-40 hours; 40+ hours | 
 | 9 | How many injuries have you had over the past 6 months related to your job? | 0 to 2; 3 to 5; 6 to 10; 11 or more | 
-| 10 | What has been the nature of your injuries (select all that apply)? | | 
+| 10 | What has been the nature of your injuries (select all that apply)? | Musculoskeletal injury (lower back, knee); Slip, trip, or falls; Impact from objects; Other (Text box)| 
 | 11 | How often do you feel that you encounter barriers to safety in your occupation? | Never; Rarely; Sometimes; Often; All the time | 
 | 12 | How often do you feel that you encounter barriers to performing your task in your occupation? | Never; Rarely; Sometimes; Often; All the time | 
 | 13 | What is the nature of these barriers (select all that apply)? | No barriers; Social, e.g., I do not feel that I belong to a team; Psychological, e.g., I feel stressed out by the nature of my work or by the lack of safety; Physical, e.g., I do not feel that I have enough physical help to be safe or to carry out my tasks | 
