@@ -8,7 +8,7 @@
 [Survey Questions and Response Value Choices](#survey-questions-and-response-value-choices)
 
 ## Overview of Dataset
-The dataset consists of a single Comma-Separated Values (CSV) file of the survey responses consisting of 338 rows, including a header row, and 40 columns. The data is provided in raw format, but filtered to excludes entries from participants who did not wish to have their responses publicly released. The 337 non-header rows in our dataset represents the complete responses provided by the participants. The 40 columns contain responses for the 40 questions broken into categories as follows: 
+The dataset consists of a single Comma-Separated Values (CSV) file of the survey responses consisting of 338 rows, including a header row, and 40 columns. The data is provided in raw format, but filtered to excludes entries from participants who did not wish to have their responses publicly released. The 337 non-header rows in our dataset represents the complete responses provided by the participants. The header contains the questions asked to participants. For the list of questions and response value choices see the section titled [Survey Questions and Response Value Choices](#survey-questions-and-response-value-choices) below. The 40 columns contain responses for the 40 questions broken into categories as follows: 
 
 | Category |	Number of Questions	| Columns in Data |
 | ------------- | ------------- | ------------- |
@@ -19,7 +19,7 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | Perceptions toward data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
 
-For each category we provide the list of questions and response value choices in the section called [Survey Questions and Response Value Choices](#survey-questions-and-response-value-choices). Response value choices are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text box, in the Reponse Value Choices column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
+For each category we provide the list of questions and response value choices below in the section titled [Survey Questions and Response Value Choices](#survey-questions-and-response-value-choices). Response value choices are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text box, in the Reponse Value Choices column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
 
 ## Demographic Summary of Dataset
 We summarize our dataset by providing counts and percentages of the following demographic variables: Country, Age, Self-Identified Gender, Job Domain, and Working Location.
