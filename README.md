@@ -31,6 +31,17 @@ The following demographic information was collected from each participant:
 
 The following questions were asked to participants regarding their perceptions and attitudes towards physical safety in the workplace:
 
+| Dataset Column | Demographic | Possible Values | 
+| ------------- | ------------- | ------------- |
+| 8 | In an average week how many hours do you spend lifting heavy objects? | | 
+| 9 | How many injuries have you had over the past 6 months related to your job? | | 
+| 10 | What has been the nature of your injuries (select all that apply)? | | 
+| 11 | How often do you feel that you encounter barriers to safety in your occupation? | | 
+| 12 | How often do you feel that you encounter barriers to performing your task in your occupation? | | 
+| 13 | What is the nature of these barriers (select all that apply)? | | 
+| 14 | Do you feel comfortable discussing barriers with your co-workers or your superiors? | | 
+| 15 | How concerned are you that barriers may cause you to have reduced longevity in your job? | | 
+
 ## Attitude Towards Working with Coworkers
 
 The following questions were asked to participants to garner perceptions towards coworkers engaged in collaborative tasks in the workplace:
