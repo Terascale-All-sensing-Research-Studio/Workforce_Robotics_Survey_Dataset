@@ -13,7 +13,9 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | Perceptions towards data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
 
-## Participant Demographics
+For each section we provide the list of questions and possible response values below. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text Box, in the Possible Values column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
+
+## Participant Demographics Questions and Possible Response Values
 
 The following demographic information was collected from each participant:
 
@@ -27,7 +29,7 @@ The following demographic information was collected from each participant:
 | 6 | Job domain: | Construction; Contract Work; Manufacturing; Retail; Transportation/Delivery/Postal Services; Warehousing |
 | 7 | Working Location: | Rural; Suburban; Urban – large-size city; Urban – mid-size city |
 
-## Perceptions Towards Physical Safety
+## Perceptions Towards Physical Safety Questions and Possible Response Values
 
 The following questions were asked to participants regarding their perceptions towards physical safety in the workplace:
 
@@ -42,7 +44,7 @@ The following questions were asked to participants regarding their perceptions t
 | 14 | Do you feel comfortable discussing barriers with your co-workers or your superiors? | | 
 | 15 | How concerned are you that barriers may cause you to have reduced longevity in your job? | | 
 
-## Perceptions Towards Working with Coworkers
+## Perceptions Towards Working with Coworkers Questions and Possible Response Values
 
 The following questions were asked to participants to garner perceptions towards coworkers when needing assistance in the workplace:
 
@@ -55,7 +57,7 @@ The following questions were asked to participants to garner perceptions towards
 | 20 | If a co-worker assists you in your tasks, do you feel worried that your job is at stake? | |
 | 21 | If a co-worker assist you in your tasks, would you feel safe at task performance? | |
 
-## Perceptions Towards Working with Robots
+## Perceptions Towards Working with Robots Questions and Possible Response Values
 
 The following questions were asked to participants to garner perceptions towards working alongside robots of varying capabilities in the workplace:
 
@@ -78,7 +80,7 @@ The following questions were asked to participants to garner perceptions towards
 | 36 | If a robot helped you with lifting only when you need its help, would you feel that | The robot respects my independence; The robot does not respect my independence |
 | 37 | If a robot helped you with lifting only when you need its help, would you feel that your job is at stake? | Not at all; Somewhat; Absolutely |
 
-## Perceptions Towards Data Privacy on Robots
+## Perceptions Towards Data Privacy on Robots Questions and Possible Response Values
 
 The following questions were asked to participants to garner perceptions towards privacy when robots use different forms of sensing to determine need for assistance:
 
