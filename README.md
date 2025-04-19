@@ -22,7 +22,7 @@ The following demographic information was collected from each participant:
 | 1 | Country: | Australia, Canada, United Kingdom, United States of America
 | 2 | Age: | 18-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89 
 | 3 | Self-identified gender: | Male, Female, Prefer Not To Say
-| 4 | Height (feet/inches) | |
+| 4 | Height (feet' inches") | |
 | 5 | Weight (pounds) | Text box |
 | 6 | Job domain: | Construction, Contract Work, Manufacturing, Retail, Transportation/Delivery/Postal Services, Warehousing |
 | 7 | Working Location: | Rural, Suburban, Urban – large-size city, Urban – mid-size city |
