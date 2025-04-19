@@ -9,6 +9,7 @@
 
 ## Contributors
 Yu (Andrew) Liu, Gurpreet Kaur, Natasha Kholgade Banerjee, Sean Banerjee
+
 [Terascale All-sensing Research Studio](https://tars-home.github.io)
 
 ## Overview of Dataset
