@@ -1,6 +1,8 @@
 # Dataset of Worker Perceptions of Workforce Robotics Regarding Safety, Independence, and Job Security
 
 ## Contents
+[Description](#description)
+
 [Contributors](#contributors)
 
 [Overview of Dataset](#overview-of-dataset)
@@ -8,6 +10,9 @@
 [Demographic Summary of Dataset](#demographic-summary-of-dataset)
 
 [Survey Questions and Response Value Choices](#survey-questions-and-response-value-choices)
+
+## Description
+With an aging blue-collar workforce spanning critical sectors such as construction, transportation and delivery, manufacturing, and warehousing, there is an increased need for collaborative workforce robots. Fear and perception of robotics in blue-collar job sectors are influenced by a range of demographic and socio-economic factors. In this paper we present a dataset consisting of 337 complete responses to a 40-question survey that we administered anonymously via Google Form to blue-collar workers in Australia, Canada, United Kingdom, and United States of America working in six different job sectors, namely manufacturing, retail, transportation & delivery, warehousing, construction, and contract work. The questions range from worker demographics (7 questions), perceptions toward physical safety in the workplace (8 questions), perceptions toward working with human coworkers in the workplace (6 questions), perceptions toward working with robots (16 questions), and perceptions toward data privacy on robots (3 questions). 
 
 ## Contributors
 Yu (Andrew) Liu, Gurpreet Kaur, Natasha Kholgade Banerjee, Sean Banerjee
