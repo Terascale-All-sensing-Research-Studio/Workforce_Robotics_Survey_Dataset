@@ -2,6 +2,7 @@
 
 ## Contents
 [Summary of Dataset](#summary-of-dataset)
+
 [Survey Questions and Possible Response Values](#survey-questions-and-possible-response-values)
 
 ## Summary of Dataset
