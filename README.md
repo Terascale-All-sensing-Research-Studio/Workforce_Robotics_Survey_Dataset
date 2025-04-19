@@ -10,7 +10,6 @@
 ## Overview of Dataset
 The dataset consists of a single Comma-Separated Values (CSV) file of the survey responses consisting of 338 rows, including a header row, and 40 columns. The data is provided in raw format, but filtered to excludes entries from participants who did not wish to have their responses publicly released. The 337 non-header rows in our dataset represents the complete responses provided by the participants. The 40 columns contain responses for the 40 questions broken into categories as follows: 
 
-
 | Category |	Number of Questions	| Columns in Data |
 | ------------- | ------------- | ------------- |
 | Participant demographics |	7	| 1 to 7 |
@@ -23,6 +22,38 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 For each category we provide the list of questions and response value choices in the section called [Survey Questions and Response Value Choices](#survey-questions-and-response-value-choices). Response value choices are separated by a semi-colon, i.e. ";'. For questions that did not have a multiple choice option we indicate the type of entry, i.e. Text box, in the Reponse Value Choices column. All multiple choice question responses were single choice except where the question indicates "select all that apply". 
 
 ## Demographic Summary of Dataset
+We summarize our dataset by providing counts and percentages of the following demographic variables: Country, Age, Self-Identified Gender, Job Domain, and Working Location.
+
+| Demographic |	Count |	Percentage |
+| ------------- | ------------- | ------------- |
+| Country | | |	 	 
+| Australia	| 24	| 7.12% |
+| Canada |	130	| 38.58% | 
+| UK	| 101	| 29.97% | 
+| USA	| 82 |	24.33% |
+| Age	| | 	 
+| 18 - 29 | 119 |	35.31% | 
+| 30 - 39	| 93 |	27.60% | 
+| 40 - 49	| 76 | 22.55% | 
+| 50 - 59	| 33 | 9.79% | 
+| 60 - 69	| 11 | 3.26% | 
+| 70 - 79	| 5 | 1.48% | 
+| Self-Identified Gender |  | 	
+| Female	| 126	| 37.39% | 
+| Male	| 209 |	62.02% | 
+| Prefer not to say	| 2	| 0.59% | 
+| Job Domain |  | 
+| Construction	| 40	| 11.87% | 
+| Contract Work	| 24	| 7.12% | 
+| Manufacturing	| 57	| 16.91% | 
+| Retail	| 45	| 13.35% | 
+| Transportation / Delivery / Postal Services	| 48	| 14.24% | 
+| Warehousing	| 123	| 36.50% | 
+| Working Location | |  		
+| Rural	| 47	| 13.95% | 
+| Suburban |	103 |	30.56% | 
+| Urban, large-size city |	65 |	19.29% |  
+| Urban, mid-size city |	122	| 36.20% | 
 
 ## Survey Questions and Response Value Choices
 
