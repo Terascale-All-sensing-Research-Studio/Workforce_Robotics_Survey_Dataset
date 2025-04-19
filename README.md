@@ -19,13 +19,13 @@ The following demographic information was collected from each participant:
 
 | Dataset Column | Demographic | Possible Values | 
 | ------------- | ------------- | ------------- |
-| 1 | Country: | Australia, Canada, United Kingdom, United States of America
-| 2 | Age: | 18-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89 
-| 3 | Self-identified gender: | Male, Female, Prefer Not To Say
+| 1 | Country: | Australia; Canada; United Kingdom; United States of America
+| 2 | Age: | 18-29; 30-39; 40-49; 50-59; 60-69; 70-79; 80-89 
+| 3 | Self-identified gender: | Male; Female; Prefer Not To Say
 | 4 | Height (feet' inches") | |
 | 5 | Weight (pounds) | Text box |
-| 6 | Job domain: | Construction, Contract Work, Manufacturing, Retail, Transportation/Delivery/Postal Services, Warehousing |
-| 7 | Working Location: | Rural, Suburban, Urban – large-size city, Urban – mid-size city |
+| 6 | Job domain: | Construction; Contract Work; Manufacturing; Retail; Transportation/Delivery/Postal Services; Warehousing |
+| 7 | Working Location: | Rural; Suburban; Urban – large-size city; Urban – mid-size city |
 
 ## Perceptions Towards Physical Safety
 
@@ -68,15 +68,15 @@ The following questions were asked to participants to garner perceptions towards
 | 26 | If you have worked alongside robots in lifting operations, did you feel worried that your job is at stake? | |
 | 27 | If a robot is available as a lifting assistant, what would you prefer? | |
 | 28 | If you want the robot's help, what would you prefer? | |
-| 29 | If a robot always lifted packages for you, would you feel that | The robot ensures I do not have lifting-related injuries, The robot does not care whether or not I have a lifting-related injury, The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
-| 30 | If a robot always lifted packages for you, would you feel that | The robot respects my independence, The robot does not respect my independence |
-| 31 | If a robot always lifted packages for you, would you feel that your job is at stake? | Not at all, Somewhat, Absolutely |
-| 32 | If a robot stood by the side, and never lifted packages for you, would you feel that | The robot ensures I do not have lifting-related injuries, The robot does not care whether or not I have a lifting-related injury, The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
-| 33 | If a robot stood by the side and never lifted packages for you, would you feel that | The robot respects my independence, The robot does not respect my independence |
-| 34 | If a robot stood by the side and never lifted packages for you, would you feel that your job is at stake? | Not at all, Somewhat, Absolutely |
-| 35 | If a robot helped you with lifting only when you need its help, would you feel that | The robot ensures I do not have lifting-related injuries, The robot does not care whether or not I have a lifting-related injury, The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
-| 36 | If a robot helped you with lifting only when you need its help, would you feel that | The robot respects my independence, The robot does not respect my independence |
-| 37 | If a robot helped you with lifting only when you need its help, would you feel that your job is at stake? | Not at all, Somewhat, Absolutely |
+| 29 | If a robot always lifted packages for you, would you feel that | The robot ensures I do not have lifting-related injuries; The robot does not care whether or not I have a lifting-related injury; The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
+| 30 | If a robot always lifted packages for you, would you feel that | The robot respects my independence; The robot does not respect my independence |
+| 31 | If a robot always lifted packages for you, would you feel that your job is at stake? | Not at all; Somewhat; Absolutely |
+| 32 | If a robot stood by the side, and never lifted packages for you, would you feel that | The robot ensures I do not have lifting-related injuries; The robot does not care whether or not I have a lifting-related injury; The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
+| 33 | If a robot stood by the side and never lifted packages for you, would you feel that | The robot respects my independence; The robot does not respect my independence |
+| 34 | If a robot stood by the side and never lifted packages for you, would you feel that your job is at stake? | Not at all; Somewhat; Absolutely |
+| 35 | If a robot helped you with lifting only when you need its help, would you feel that | The robot ensures I do not have lifting-related injuries; The robot does not care whether or not I have a lifting-related injury; The robot ensures I do not have lifting-related injuries, but I would be worried that the robot would injure me |
+| 36 | If a robot helped you with lifting only when you need its help, would you feel that | The robot respects my independence; The robot does not respect my independence |
+| 37 | If a robot helped you with lifting only when you need its help, would you feel that your job is at stake? | Not at all; Somewhat; Absolutely |
 
 ## Perceptions Towards Data Privacy on Robots
 
@@ -84,6 +84,6 @@ The following questions were asked to participants to garner perceptions towards
 
 | Dataset Column | Demographic | Possible Values | 
 | ------------- | ------------- | ------------- |
-| 38 | To detect whether you need help, the robot may have to record data about you, e.g., it may need to record your audio to hear your request, or it may need to record video to determine if you are struggling. If your audio data is recorded, how concerned are you about privacy issues? | Not concerned, Somewhat concerned, Very concerned |
-| 39 | If your video data is recorded, how concerned are you about privacy issues? | Not concerned, Somewhat concerned, Very concerned |
-| 40 | We now have computer software that can detect the movement of your body joints from video data. If the robot uses a camera to record your video, detect and store the movement of your body joints, and delete the video, how concerned would you be about privacy issues? | Not concerned, Somewhat concerned, Very concerned |
+| 38 | To detect whether you need help, the robot may have to record data about you, e.g., it may need to record your audio to hear your request, or it may need to record video to determine if you are struggling. If your audio data is recorded, how concerned are you about privacy issues? | Not concerned; Somewhat concerned; Very concerned |
+| 39 | If your video data is recorded, how concerned are you about privacy issues? | Not concerned; Somewhat concerned; Very concerned |
+| 40 | We now have computer software that can detect the movement of your body joints from video data. If the robot uses a camera to record your video, detect and store the movement of your body joints, and delete the video, how concerned would you be about privacy issues? | Not concerned; Somewhat concerned; Very concerned |
