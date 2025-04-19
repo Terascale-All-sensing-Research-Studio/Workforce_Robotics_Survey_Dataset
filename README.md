@@ -11,3 +11,16 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | Attitudes towards working with robots	| 16 |	22 to 37 |
 | Attitudes towards data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
+
+The following demographic information was collected from each participant:
+
+| Demographic | Possible Values | 
+| ------------- | ------------- |
+| Country: | Australia, Canada, United Kingdom, United States of America
+| Age: | 18-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89 
+| Self-identified gender: | Male, Female, Prefer Not To Say
+| Height (feet/inches) | |
+| Weight (pounds) | Text box |
+| Job domain: | Construction, Contract Work, Manufacturing, Retail, Transportation/Delivery/Postal Services, Warehousing |
+| Working Location: | Rural, Suburban, Urban – large-size city, Urban – mid-size city |
+
