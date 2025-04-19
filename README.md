@@ -14,13 +14,13 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 
 The following demographic information was collected from each participant:
 
-| Demographic | Possible Values | 
-| ------------- | ------------- |
-| Country: | Australia, Canada, United Kingdom, United States of America
-| Age: | 18-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89 
-| Self-identified gender: | Male, Female, Prefer Not To Say
-| Height (feet/inches) | |
-| Weight (pounds) | Text box |
-| Job domain: | Construction, Contract Work, Manufacturing, Retail, Transportation/Delivery/Postal Services, Warehousing |
-| Working Location: | Rural, Suburban, Urban – large-size city, Urban – mid-size city |
+| Dataset Column | Demographic | Possible Values | 
+| ------------- | ------------- | ------------- |
+| 1 | Country: | Australia, Canada, United Kingdom, United States of America
+| 2 | Age: | 18-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-89 
+| 3 | Self-identified gender: | Male, Female, Prefer Not To Say
+| 4 | Height (feet/inches) | |
+| 5 | Weight (pounds) | Text box |
+| 6 | Job domain: | Construction, Contract Work, Manufacturing, Retail, Transportation/Delivery/Postal Services, Warehousing |
+| 7 | Working Location: | Rural, Suburban, Urban – large-size city, Urban – mid-size city |
 
