@@ -63,7 +63,7 @@ The following questions were asked to participants to garner perceptions towards
 
 | Dataset Column | Question | Possible Response Values | 
 | ------------- | ------------- | ------------- |
-| 22 | Have you worked along-side or with robot assistants before on the job? | |
+| 22 | Have you worked along-side or with robot assistants before on the job? | Yes, and the robot was involved in lifting operations; Yes, but the robot was not involved in lifting operations; No |
 | 23 | If you have worked alongside robots in lifting operations, did the robot perform lifting by itself, or did you and the robot work together? | |
 | 24 | If you have worked alongside robots in lifting operations, did you feel safe working alongside the robot? | |
 | 25 | If you have worked alongside robots in lifting operations, did you feel that the robot respected your independence at task performance? | |
