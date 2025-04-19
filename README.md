@@ -7,10 +7,10 @@ The dataset consists of a single Comma-Separated Values (CSV) file of the survey
 | Section |	Number of Questions	| Columns in Data |
 | ------------- | ------------- | ------------- |
 | Participant demographics |	7	| 1 to 7 |
-| Attitudes toward physical safety |	8	| 8 to 15 |
-| Attitudes towards working with coworkers |	6	| 16 to 21 |
-| Attitudes towards working with robots	| 16 |	22 to 37 |
-| Attitudes towards data privacy on robots	| 3 |	38 to 40 |
+| Perceptions toward physical safety |	8	| 8 to 15 |
+| Perceptions towards working with coworkers |	6	| 16 to 21 |
+| Perceptions towards working with robots	| 16 |	22 to 37 |
+| Perceptions towards data privacy on robots	| 3 |	38 to 40 |
 | Total Questions	| 40 |  |	
 
 ## Participant Demographics
@@ -27,9 +27,9 @@ The following demographic information was collected from each participant:
 | 6 | Job domain: | Construction, Contract Work, Manufacturing, Retail, Transportation/Delivery/Postal Services, Warehousing |
 | 7 | Working Location: | Rural, Suburban, Urban – large-size city, Urban – mid-size city |
 
-## Attitudes Towards Physical Safety
+## Perceptions Towards Physical Safety
 
-The following questions were asked to participants regarding their perceptions and attitudes towards physical safety in the workplace:
+The following questions were asked to participants regarding their perceptions towards physical safety in the workplace:
 
 | Dataset Column | Demographic | Possible Values | 
 | ------------- | ------------- | ------------- |
@@ -42,7 +42,7 @@ The following questions were asked to participants regarding their perceptions a
 | 14 | Do you feel comfortable discussing barriers with your co-workers or your superiors? | | 
 | 15 | How concerned are you that barriers may cause you to have reduced longevity in your job? | | 
 
-## Attitude Towards Working with Coworkers
+## Perceptions Towards Working with Coworkers
 
 The following questions were asked to participants to garner perceptions towards coworkers engaged in collaborative tasks in the workplace:
 
@@ -55,3 +55,6 @@ The following questions were asked to participants to garner perceptions towards
 | 20 | If a co-worker assists you in your tasks, do you feel worried that your job is at stake? | |
 | 21 | If a co-worker assist you in your tasks, would you feel safe at task performance? | |
 
+## Perceptions Towards Working with Robots
+
+## Perceptions Towards Data Privacy on Robots
