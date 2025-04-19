@@ -44,7 +44,7 @@ The following questions were asked to participants regarding their perceptions t
 
 ## Perceptions Towards Working with Coworkers
 
-The following questions were asked to participants to garner perceptions towards coworkers engaged in collaborative tasks in the workplace:
+The following questions were asked to participants to garner perceptions towards coworkers when needing assistance in the workplace:
 
 | Dataset Column | Demographic | Possible Values | 
 | ------------- | ------------- | ------------- |
