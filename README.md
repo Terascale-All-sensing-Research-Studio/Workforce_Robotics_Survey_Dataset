@@ -7,6 +7,10 @@
 
 [Survey Questions and Response Value Choices](#survey-questions-and-response-value-choices)
 
+## Contributors
+Yu (Andrew) Liu, Gurpreet Kaur, Natasha Kholgade Banerjee, Sean Banerjee
+[Terascale All-sensing Research Studio](https://tars-home.github.io)
+
 ## Overview of Dataset
 The dataset consists of a single Comma-Separated Values (CSV) file ([WorkerSurveyDataRelease.csv](https://github.com/Terascale-All-sensing-Research-Studio/Workforce_Robotics_Survey_Dataset/blob/main/WorkerSurveyDataRelease.csv)) of the survey responses consisting of 338 rows, including a header row, and 40 columns. The data is provided in raw format, but filtered to excludes entries from participants who did not wish to have their responses publicly released. The 337 non-header rows in our dataset represents the complete responses provided by the participants. The header contains the questions asked to participants. For the list of questions and response value choices see the section titled [Survey Questions and Response Value Choices](#survey-questions-and-response-value-choices) below. The 40 columns contain responses for the 40 questions broken into categories as follows: 
 
