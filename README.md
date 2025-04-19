@@ -57,6 +57,8 @@ The following questions were asked to participants to garner perceptions towards
 
 ## Perceptions Towards Working with Robots
 
+The following questions were asked to participants to garner perceptions towards working alongside robots of varying capabilities in the workplace:
+
 | Dataset Column | Demographic | Possible Values | 
 | ------------- | ------------- | ------------- |
 | 22 | Have you worked along-side or with robot assistants before on the job? | |
@@ -77,6 +79,8 @@ The following questions were asked to participants to garner perceptions towards
 | 37 | If a robot helped you with lifting only when you need its help, would you feel that your job is at stake? | |
 
 ## Perceptions Towards Data Privacy on Robots
+
+The following questions were asked to participants to garner perceptions towards privacy when robots use different forms of sensing to determine need for assistance:
 
 | Dataset Column | Demographic | Possible Values | 
 | ------------- | ------------- | ------------- |
